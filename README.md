@@ -1,6 +1,8 @@
 # Scoreboard
 A simple React application
 
+[link to app](https://scoreboard-ada51.web.app)
+
 ## Requirements
 - For development, you will only need Node.js installed on your environement.
 Node
